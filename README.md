@@ -21,3 +21,7 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/Ashique01/Birthdat-list-using-useState.git
+
+2. Navigate to the project directory:
+```sh
+cd Birthdat-list-using-useState
